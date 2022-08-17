@@ -1,0 +1,50 @@
+body{
+    background-image:url(white-desktop-with-newspaper-white-keyboard-white-calculator-and-pen-and-cup-of-coffee-on-it-minimalist-wallpaper.jpg)
+}
+h1{
+    color: rgb(245, 238, 238);
+    justify-content:center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 250%;
+    Padding:40PX;
+}
+
+.comp
+{
+    display:flex-top;
+    position:absolute;
+    font-size:100%;
+    top:180px;
+    right:500px;
+    left:400px;
+    width:500px;
+    border:5px brown 
+}
+
+.comp2a
+{
+    display: inline-block;
+    justify-content: center;
+    flex-direction: row;
+    justify-content: center;
+}
+
+
+
+.header
+{
+    flex:display;
+    text-align:center;
+    margin:10px;
+    background-color:rgb(128, 81, 24);
+    padding:2000 px;
+
+}
+
+.hlink
+{
+    display:flex;
+    margin-left:1100px;
+    padding:100px;
+    justify-content:space-between;
+}
